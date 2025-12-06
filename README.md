@@ -1,12 +1,41 @@
-# React + Vite
+📸 ImageUploader
+📝 Description
+A simple web application built for uploading and managing images. This project utilizes React for the frontend and is bootstrapped with Vite.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🛠️ Technology Stack
+Frontend: React
 
-Currently, two official plugins are available:
+Build Tool: Vite
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Languages: JavaScript, HTML, CSS
 
-## Expanding the ESLint configuration
+🚀 Installation and Setup
+To run this project locally, follow these steps:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Clone the repository:
+
+Bash
+
+git clone https://github.com/abhirandas/imageUploader.git
+cd imageUploader
+Install dependencies:
+
+Bash
+
+npm install
+Run the application:
+
+Bash
+
+npm run dev
+The application will be available at http://localhost:5173 (or similar port).
+
+💡 Usage
+Launch the application in your browser.
+
+Click the upload area or button to select an image file.
+
+The application will display the uploaded image.
+
+📄 License
+This project is open-source and available under the MIT License.
