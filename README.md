@@ -44,6 +44,4 @@ The application will be available at `http://localhost:5173` (or similar port).
 
 -----
 
-###  License
 
-This project is open-source and available under the **MIT License**.
